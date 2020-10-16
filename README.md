@@ -5,7 +5,7 @@
 # Ian Pires
 
 - 🔭 Atualmente, estou trabalhando na Linx como Analista Jr - Desenvolvedor 
-- 🌱 Atualmente, estou aprendendo JavaScript, ReactJs, React-Native, NodeJs .NET Core
+- 🌱 Atualmente, estou aprendendo e trabalhando com JavaScript, ReactJs, React-Native, NodeJs .NET Core
 - 🚀 Comecei a minha carreira na tecnologia com 18 anos e até agora está sendo um grande processo de aprendizado e descobrimento em uma área fantástica! 
 - ⚡ Curiosidade: Um torcedor do Vasco da Gama perdido em SP e guerreiro é a melhor classe em RPG 😜
 
