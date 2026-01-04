@@ -25,4 +25,4 @@ microfrontends e design systems em ambientes de alta escala.
 - Reduzir acoplamento entre produtos
 - Arquiteturas sustentáveis no front-end
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ian-p-oliveira/)
+[LinkedIn](https://www.linkedin.com/in/ian-p-oliveira/)
